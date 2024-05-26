@@ -65,7 +65,7 @@ This is my personal portfolio website built to display my projects, skills, and 
 
 - **Description**: This portfolio website is built using a variety of modern web technologies. The site is built with React for a robust and efficient front-end structure, styled with Tailwind CSS for streamlined and customizable design. Framer Motion is used to enhance the visual appeal and interactivity with smooth animations and dynamic transitions.
 - **Technologies**: React, Tailwind CSS, Framer Motion
-- **GitHub Link**: [Portfolio Website](https://github.com/karthiksriramagiri/portfolio-website)
+- **GitHub Link**: [Portfolio Website]([https://github.com/karthiksriramagiri/portfolio-website](https://github.com/karthiksriramagiri/Portfolio))
 
 ### Other Projects
 
