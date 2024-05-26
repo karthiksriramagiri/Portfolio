@@ -14,8 +14,6 @@ Welcome to my personal portfolio website. This site showcases my projects, skill
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Highlights](#project-highlights)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
