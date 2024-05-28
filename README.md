@@ -1,6 +1,4 @@
-Sure! Here’s an example README file for your portfolio website:
 
----
 
 # Karthik Sriramagiri's Portfolio
 
